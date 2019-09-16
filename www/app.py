@@ -1,4 +1,5 @@
-#!/usr/bin/python/env
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
 from aiohttp import web
 
